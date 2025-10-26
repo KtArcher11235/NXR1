@@ -15,3 +15,13 @@ I also want it to be somewhat fast but it must be precise too.
 ![principles4](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--85cacaecae7ff61776823dd7f46f831e8220427f/principles4.png)
   
 
+## 10/26/2025 - made mockup  
+
+![2d34f239-ff6d-4c4c-a129-7d090190c433~1](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTczNywicHVyIjoiYmxvYl9pZCJ9fQ==--e66201657b6b1180a474db39e14d4436a9f2268c/2d34f239-ff6d-4c4c-a129-7d090190c433~1.jpg)
+figured out how coreXY worked with a mockup of the mechanism.
+Researched parts to find how it would work for a reasonable price
+decided that I wanted auto bed leveling and calibration
+
+
+  
+
