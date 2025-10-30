@@ -34,3 +34,11 @@ he also helped me with deciding how it should work
 
   
 
+## 10/30/2025 - did a whole ton of cad  
+
+cadded frame, coreXY, Z axis
+worked more on what parts i want in including the motors (nema 17 60mm)
+especially the belt tensioner was fun
+will work on mates next![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--eb16cae64d2152a09dd2defbafefc8e93e8dbc51/image.png)
+  
+
