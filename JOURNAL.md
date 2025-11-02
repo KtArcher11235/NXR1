@@ -42,3 +42,11 @@ especially the belt tensioner was fun
 will work on mates next![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--eb16cae64d2152a09dd2defbafefc8e93e8dbc51/image.png)
   
 
+## 11/2/2025 - More cad  
+
+I replaced the 2020 extrusions with 2040 extrusions.
+I also reworked the mates
+also I researched different extruder and heatbed options, many of which are too expensive, so i will have to find something cheaper.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzczNywicHVyIjoiYmxvYl9pZCJ9fQ==--1aba17d0170d183eb6247d079cd5e23bf1faaad8/image.png)
+  
+
