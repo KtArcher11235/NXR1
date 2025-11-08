@@ -50,11 +50,18 @@ also I researched different extruder and heatbed options, many of which are too 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzczNywicHVyIjoiYmxvYl9pZCJ9fQ==--1aba17d0170d183eb6247d079cd5e23bf1faaad8/image.png)
   
 
-## 11/7/2025 - worked on finding out the extruder/ hotend  
+## 11/7/2025 10:04 PM - worked on finding out the extruder/ hotend  
 
 worked to find an extruder and hotend.
 decided on direct drive and a high flow nozzle. 
 also decided to run klipper on it. so that will require a raspberry pi.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--d67d945d049735147b0f0f61b32852e691f0a473/image.png)
+  
+
+## 11/7/2025 10:10 PM - met with a 3d printer expert   
+
+Was at orlando maker faire and met someone who makes delta printers (https://www.deltamaker.com/)
+and spoke with them about how different very large printers worked.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ea56043d7c6ce2d55ad47ec25b047344ea222d8d/image.png)
   
 
