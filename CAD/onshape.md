@@ -1,1 +1,0 @@
-https://cad.onshape.com/documents/fe897e7b2c55e579f6c7b6b2/w/5d5b7458fcd765ffae7a8e86/e/e22271649a352ba639229779?renderMode=0&uiState=69417255e8552ade8e3658a8
