@@ -6,7 +6,8 @@ It's the first 3d printer that I'm making so expect it to be mid.
 Using a tried and true extruder for an ender 3, combined with the powerful Bambu lab p1s hotend, this printer is able to tackle fast and accurate printing. sometimes.<br>
 <img width="668" height="702" alt="image" src="https://github.com/user-attachments/assets/4fdd439e-ce96-4dd0-8734-69a7d3b29fdf" />
 
-<img width="932" height="831" alt="image" src="https://github.com/user-attachments/assets/9696e9e0-2380-4f06-a4c2-23ca2df3c5a9" />
+<img width="950" height="882" alt="image" src="https://github.com/user-attachments/assets/605cbee1-9e7a-45c6-b426-1dd0a2069ee7" />
+
  
   
 ## building
