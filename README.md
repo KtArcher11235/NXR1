@@ -1,3 +1,4 @@
+
 # NXR1
 **NXR (Not eXactly Reliable)** is a simple coreXY 3d printer designed to be cheep but kindah ok.
 <br>
@@ -8,7 +9,7 @@ Using a tried and true extruder for an ender 3, combined with the powerful Bambu
 
 <img width="950" height="882" alt="image" src="https://github.com/user-attachments/assets/605cbee1-9e7a-45c6-b426-1dd0a2069ee7" />
 
- 
+ <img width="1932" height="1080" alt="Untitled" src="https://github.com/user-attachments/assets/4e5ebd34-0cd9-47f9-9982-fb50af151efd" />
   
 ## building
 in order to build the nxr1 you will need the parts in the BOM (see BOM.csv)  
