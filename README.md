@@ -5,14 +5,31 @@
 It's the first 3d printer that I'm making so expect it to be mid.
 <br>
 Using a tried and true extruder for an ender 3, combined with the powerful Bambu lab p1s hotend, this printer is able to tackle fast and accurate printing. sometimes.<br>
+The NXR-1 is designed to be upgradable, with standard parts and simple design, you can go crazy and do whatever.
+
+## specs
+  
+* bigger motors than a bambu lab
+* high flow hotend
+* print volume is larger than the bed
+* percise linear rails
+* dual Z-axis motors
+* auto bed leveling
+* powerfull part fan
+
 <img width="668" height="702" alt="image" src="https://github.com/user-attachments/assets/4fdd439e-ce96-4dd0-8734-69a7d3b29fdf" />
 
 <img width="950" height="882" alt="image" src="https://github.com/user-attachments/assets/605cbee1-9e7a-45c6-b426-1dd0a2069ee7" />
 
  <img width="1932" height="1080" alt="Untitled" src="https://github.com/user-attachments/assets/4e5ebd34-0cd9-47f9-9982-fb50af151efd" />
-  
+ 
+## why do we need another coustom 3d-printer?
+well this one is designed for ease of use and to be cheap.
+
+
+
 ## building
-in order to build the nxr1 you will need the parts in the BOM (see BOM.csv)  
+in order to build the nxr1 you will need the parts in the BOM (see BOM.csv and partslist.csv)  
 using the cad as refrence, build the parts in the folowing order,  
 ### The bottom frame  
   asemble the extrusions with the L brackets and then the 3d printed ones. Add feet. also make sure to find where the nuts will be required later and put them there NOW.
