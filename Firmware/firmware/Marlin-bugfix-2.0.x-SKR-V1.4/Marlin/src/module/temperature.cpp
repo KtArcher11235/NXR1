@@ -45,12 +45,12 @@
 #endif
 
 #if ENABLED(MAX6675_IS_MAX31865)
-  #include "Adafruit_MAX31865.h"
+  #include <Adafruit_MAX31865.h>
   #ifndef MAX31865_CS_PIN
-    #define MAX31865_CS_PIN     PC9 //MAX6675_SS_PIN  // HW:49   SW:65    for example
+    #define MAX31865_CS_PIN     MAX6675_SS_PIN  // HW:49   SW:65    for example
   #endif
   #ifndef MAX31865_MOSI_PIN
-    #define MAX31865_MOSI_PIN   PC5 //MOSI_PIN        //            63
+    #define MAX31865_MOSI_PIN   MOSI_PIN        //            63
   #endif
   #ifndef MAX31865_MISO_PIN
     #define MAX31865_MISO_PIN   MAX6675_DO_PIN  //            42
