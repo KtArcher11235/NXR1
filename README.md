@@ -26,6 +26,10 @@ The NXR-1 is designed to be upgradable, with standard parts and simple design, y
 ## why do we need another coustom 3d-printer?
 well this one is designed for ease of use and to be cheap.
 
+It does have some special features though 
+1. The bed is a lot smaller than the overall volume, which gives you space to perform later upgrades, add-ons, and other fun mods.
+2. (ADD MORE)
+
 
 
 ## building
