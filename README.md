@@ -8,14 +8,15 @@ Using a tried and true extruder for an ender 3, combined with the powerful Bambu
 The NXR-1 is designed to be upgradable, with standard parts and simple design, you can go crazy and do whatever.
 
 ## specs
-  
-* bigger motors than a bambu lab
-* high flow hotend
-* print volume is larger than the bed
+* 150–250 mm/s ish the perfect quality settings for most fillaments.
+* 4000mm/s^2 acceleration
+* 220x220x330 build volume.
+* bigger motors than a bambu lab because it's a cool flex
+* high p1s flow hotend
 * percise linear rails
 * dual Z-axis motors
-* auto bed leveling
-* powerfull part fan
+* auto bed leveling with bl touch
+* powerfull 5050 part fan
 
 <img width="668" height="702" alt="image" src="https://github.com/user-attachments/assets/4fdd439e-ce96-4dd0-8734-69a7d3b29fdf" />
 
@@ -29,8 +30,8 @@ well this one is designed for ease of use and to be cheap.
 It does have some special features though 
 1. The bed is a lot smaller than the overall volume, which gives you space to perform later upgrades, add-ons, and other fun mods.
 2. This also lets you some lets interesting things where the print volume is bigger than the bed.
-
-
+3. its tall, allowing you to print up to 330 mm in height, which is hard to get unless you use a really big printer.
+4. Off bed anyone? this printer lets you print larger than the bed is.
 
 ## building
 in order to build the nxr1 you will need the parts in the BOM (see BOM.csv and partslist.csv)  
