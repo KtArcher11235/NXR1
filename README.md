@@ -4,7 +4,7 @@
 <br>
 It's the first 3d printer that I'm making so expect it to be mid.
 <br>
-Using a tried and true extruder for an ender 3, combined with the powerful Bambu lab p1s hotend, this printer is able to tackle fast and accurate printing. sometimes.<br>
+Using a tried and true extruder for an ender 3, combined with the powerful Bambu lab p1s hotend, this printer is able to print with a high dimensional accuracy.<br>
 The NXR-1 is designed to be upgradable, with standard parts and simple design, you can go crazy and do whatever.
 
 ## specs
