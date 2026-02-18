@@ -28,7 +28,7 @@ well this one is designed for ease of use and to be cheap.
 
 It does have some special features though 
 1. The bed is a lot smaller than the overall volume, which gives you space to perform later upgrades, add-ons, and other fun mods.
-2. (ADD MORE)
+2. This also lets you some lets interesting things where the print volume is bigger than the bed.
 
 
 
