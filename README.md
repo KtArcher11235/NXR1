@@ -7,6 +7,8 @@ It's the first 3d printer that I'm making so expect it to be mid.
 Using a tried and true extruder for an ender 3, combined with the powerful Bambu lab p1s hotend, this printer is able to print with a high dimensional accuracy.<br>
 The NXR-1 is designed to be upgradable, with standard parts and simple design, you can go crazy and do whatever.
 
+see the <a href="https://cad.onshape.com/documents/fe897e7b2c55e579f6c7b6b2/w/5d5b7458fcd765ffae7a8e86/e/e22271649a352ba639229779?renderMode=0&uiState=69a37db7b66702e5570718b9">CAD</a>
+
 ## specs
 * 150–250 mm/s ish the perfect quality settings for most fillaments.
 * 4000mm/s^2 acceleration
