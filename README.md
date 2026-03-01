@@ -52,3 +52,6 @@ wind the belts around the system as shown in the cad
 electronics, spool holder, etc. Again, look at the CAD.
 ### notes
 Order is not too important in these steps, just use common sense to determine how to asemble with cad as refrence.
+### wiring 
+<img width="3300" height="2550" alt="Drawing 1" src="https://github.com/user-attachments/assets/abaaeef0-f0cc-4c8d-a41d-444978af10fa" />
+
