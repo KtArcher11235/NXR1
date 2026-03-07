@@ -22,7 +22,8 @@ see the <a href="https://cad.onshape.com/documents/fe897e7b2c55e579f6c7b6b2/w/5d
 
 <img width="668" height="702" alt="image" src="https://github.com/user-attachments/assets/4fdd439e-ce96-4dd0-8734-69a7d3b29fdf" />
 
-<img width="950" height="882" alt="image" src="https://github.com/user-attachments/assets/605cbee1-9e7a-45c6-b426-1dd0a2069ee7" />
+<img width="691" height="511" alt="image" src="https://github.com/user-attachments/assets/dea35d2d-0797-47b0-9fd2-32aff869473c" />
+
 
  <img width="1932" height="1080" alt="Untitled" src="https://github.com/user-attachments/assets/4e5ebd34-0cd9-47f9-9982-fb50af151efd" />
  
